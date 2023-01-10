@@ -16,8 +16,6 @@
 
 # Sumário
 
-- [Entrega feita](#done)
-- [Link deploy](#deploy)
 - [Documentação das rotas da API](#api)
 
   - [Rotas das Pessoas](#people-routes)
